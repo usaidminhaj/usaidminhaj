@@ -6,8 +6,12 @@
 
 <h1>Contributuion Graph </h1>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=usaidminhaj&bg_color=20232A&color=FFFFFF&line=6495ED&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=usaidminhaj&bg_color=20232A&color=000000&line=6495ED&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h1>My Github Stats: </h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=usaidminhaj&show_icons=true&bg_color=00000000)
+
+<h1>Streak</h1>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usaidminhaj&theme=radical" alt="Streak Stats" />
