@@ -12,6 +12,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=usaidminhaj&show_icons=true&bg_color=00000000)
 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nazish-16&show_icons=true&theme=react&layout=compact" alt="nazish-16" />
+
 <h1>Streak</h1>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=usaidminhaj&theme=react" alt="Streak Stats" />
